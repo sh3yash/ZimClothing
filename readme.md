@@ -32,10 +32,21 @@ Before getting started, ensure you have the following installed on your local ma
 - [Git](https://git-scm.com/): Download and install Git. Verify installation by running `git --version` in your terminal.
 
 ### Clone the Repository
-        ```bash 
-        git clone https://github.com/sh3yash/ZimClothing.git
-        ```
+```bash 
+git clone https://github.com/sh3yash/ZimClothing.git
 cd ZimClothing
+```
+
+### Install dependencies
+    
+```bash
+npm i
+```
+
+### Start server
+```bash
+npm start
+```
 
 ## Contribution
 
