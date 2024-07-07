@@ -30,12 +30,25 @@ Before getting started, ensure you have the following installed on your local ma
 
 - [Node.js](https://nodejs.org/): Download and install Node.js. Verify installation by running `node -v` and `npm -v` in your terminal.
 - [Git](https://git-scm.com/): Download and install Git. Verify installation by running `git --version` in your terminal.
-
+## Quick Use
 ### Clone the Repository
-        ```bash 
-        git clone https://github.com/sh3yash/ZimClothing.git
-        ```
+```bash 
+git clone https://github.com/sh3yash/ZimClothing.git
+```
+```bash
 cd ZimClothing
+```
+
+### Install dependencies
+```bash
+npm i
+```
+
+### Start server
+```bash
+npm start
+```
+
 
 ## Contribution
 
