@@ -6,9 +6,6 @@ This is a simple ecommerce search project where users can search for clothes and
 
 Ecommerce Search is a web application that allows users to search for clothes by typing keywords into the search bar. As the user types, the search results are dynamically displayed below the search bar, providing instant feedback. The project uses Tailwind CSS for styling and a Node.js backend with Express to serve mock clothing data.
 
-## Live Demo
-
-You can check out the live demo [here](#) .
 
 ## Features
 
@@ -32,25 +29,25 @@ Before getting started, ensure you have the following installed on your local ma
 - [Git](https://git-scm.com/): Download and install Git. Verify installation by running `git --version` in your terminal.
 
 ### Clone the Repository
-        ```bash 
+ 
         git clone https://github.com/sh3yash/ZimClothing.git
-        ```
+
 
 ### Running the Backend
 
 Navigate to the backend directory:
 
-        ```sh
+
         cd path/to/backend
-        ```
+
 #### Install the dependencies:
-        ```bash
+
         npm install
-        ```
+
 #### Start the backend server:
-        ```bash
+
         npm start
-        ```
+
 
         
 
