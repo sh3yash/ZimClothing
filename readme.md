@@ -8,7 +8,7 @@ Ecommerce Search is a web application that allows users to search for clothes by
 
 ## Live Demo
 
-You can check out the live demo [here](#) (replace with your live link).
+You can check out the live demo [here](#) .
 
 ## Features
 
@@ -35,7 +35,25 @@ Before getting started, ensure you have the following installed on your local ma
         ```bash 
         git clone https://github.com/sh3yash/ZimClothing.git
         ```
-cd ZimClothing
+
+### Running the Backend
+
+Navigate to the backend directory:
+
+        ```sh
+        cd path/to/backend
+        ```
+#### Install the dependencies:
+        ```bash
+        npm install
+        ```
+#### Start the backend server:
+        ```bash
+        npm start
+        ```
+
+        
+
 
 ## Contribution
 
